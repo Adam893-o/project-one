@@ -35,7 +35,7 @@
 		<li>Graphic Design</li>
 	</ul>
 	<h2>Contact Information</h2>
-	<p><a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin ">Linkedin</a></p>
+	<p><a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin" target="_blank">Linkedin</a></p>
 	<p>asharifeh@hawk.iit.edu</p>
 </body>
 </html>
