@@ -6,14 +6,14 @@
 </head>
 <body>
   <header>
-	<h1>My Websites</h1>
-	  <nav>
-		<ul>
-			<li><a href="https://adam893-o.github.io/Project-1/">About Jupiter</a></li>
-			<li><a href="https://adam893-o.github.io/Resume/"_blank">Resume</a></li>
-			<li><a href="https://adam893-o.github.io/Project-1-UNO/">Facts About UNO</a></li>
-		</ul>
-	  </nav>
+	<nav>
+	  <ul>
+	    <li><a href="https://adam893-o.github.io/project-1-jupiter.html/" target="_blank">About Jupiter</a></li>
+	    <li><a href="https://adam893-o.github.io/resume.html/" target="_blank">Resume</a></li>
+	    <li><a href="https://adam893-o.github.io/Project-1-UNO/" target="_blank">Facts About UNO</a></li>
+	  </ul>
+	</nav>
   </header>
+  <h1>My Websites</h1>
 </body>
 </html>
