@@ -13,7 +13,7 @@
 	    <li><a href="https://adam893-o.github.io/Project-1-UNO/" target="_blank">Facts About UNO</a></li>
 	  </ul>
 	</nav>
+	<h1>My Websites</h1>
   </header>
-  <h1>My Websites</h1>
 </body>
 </html>
