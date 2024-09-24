@@ -7,8 +7,8 @@
 <body>
   <header>
     <nav>
-	  <ul>
-	    <li><a href="https://adam893-o.github.io/project-1-jupiter.html/">About Jupiter</a></li>
+      <ul>
+        <li><a href="https://adam893-o.github.io/project-1-jupiter.html/">About Jupiter</a></li>
         <li><a href="https://adam893-o.github.io/resume.html/">Adam's Resume</a></li>
         <li><a href="https://adam893-o.github.io/Project-1-UNO/">Facts About UNO</a></li>
       </ul>
