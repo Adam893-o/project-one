@@ -1,7 +1,7 @@
 <!Doctype html>
 <html lang ='en'>
 <head>
-  <meta charset="uft-8">
+  <meta charset="utf-8">
   <title>Adam's Resume</title>
 </head>
 <body>
