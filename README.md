@@ -8,9 +8,9 @@
   <header>
     <nav>
       <ul>
-        <li><a href="/project-1-jupiter.html">About Jupiter</a></li>
-        <li><a href="/resume.html">Adam's Resume</a></li>
-        <li><a href="/project-1-uno.html">Uno Facts</a></li>
+        <li><a href="/project-one/project-1-jupiter.html">About Jupiter</a></li>
+        <li><a href="/project-one/resume.html">Adam's Resume</a></li>
+        <li><a href="/project-one/project-1-uno.html">Uno Facts</a></li>
       </ul>
     </nav>
   </header>
