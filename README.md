@@ -18,7 +18,7 @@
 <section>
 <h2> Education</h2>
   <ul>
-    <li>Moraine Valley Community College Palos Hill, IL Associates degree in Liberal Arts</li>
+    <li>Moraine Valley Community College Palos Hill, IL Associates degree in Liberal Arts GPA 3.7/4.0</li>
     <li>Bachelors's in Information Technology and Management in Illinois Institute Of Technology</li>
   </ul>
 </section> 
